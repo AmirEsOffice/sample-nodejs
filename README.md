@@ -45,9 +45,9 @@ Propose and implement enhancements, ensuring adherence to best practices.
 Submit a pull request and be part of refining this sample project for the community.
 Thank you for considering contributions to nodetestapp! Together, we can elevate this project and create a valuable resource for the development community. Your ideas and efforts are greatly appreciated.
 
-**Project Enhancements:**
+ ### Project Enhancements: 
 
-**Continuous Improvement: **
+**Continuous Improvement:**
 Welcome to the nodetestapp sample project! While functional, this project is an ongoing canvas for improvement. Feel free to explore, suggest enhancements, and contribute to refining its structure and functionality. There's room for improvement in terms of project structure, modularization, and the addition of robust testing modules.
 
 **SQL Query Practices**
